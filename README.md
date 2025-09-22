@@ -2,7 +2,7 @@
 
 Live Estatistica Descritiva
 
-Em 2022 tive a oportunidade de apresentar um live sobre Estatística Descritiva no canal Data & Analytics Forum da amiga Isabela Marinho.
+Em 2022 tive a oportunidade de apresentar uma live sobre Estatística Descritiva no canal Data & Analytics Forum da amiga Isabela Marinho.
 
 Workshop: Estatística Descritiva, com Sandro Toshio (https://www.youtube.com/watch?v=Mal1sJFBSvE)
 
